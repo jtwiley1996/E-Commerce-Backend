@@ -18,7 +18,7 @@ sequelize.sync({ force: false}).then(() => {
 });
 
 //Showing the name of the App
-cfonts.say('CYBERMARKET', {
+cfonts.say('JTs CYBERSHOP', {
 	font: 'block',              // define the font face
 	align: 'center',              // define text alignment
 	colors: ['white'],         // define all colors

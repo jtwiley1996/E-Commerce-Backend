@@ -1,4 +1,4 @@
-const { ProductTag } = require('../Starter-Folder/models');
+const { ProductTag } = require('../models');
 
 const productTagData = [
   {
